@@ -1,0 +1,3 @@
+Primeiro contato com JavaScript.
+
+Compreendendo como criar um alerta, definir título e texto na web com JavaScript.
