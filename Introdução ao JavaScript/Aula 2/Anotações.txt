@@ -1,0 +1,13 @@
+Introdução a tipos primitivos, sendo eles:
+Boolean, Number e String.
+
+Introdução a declaração de variável seja em escopo local ou global.
+
+Como utilizar atribuições.
+
+Introdução a Operadores Aritméticos, sendo eles:
+Comparação, Comparação Identica, Adição, Subtração, Multiplicação, Divisão Real, Divisão Inteira e Potenciação.
+
+Introdução a Operadores relacionais e suas funcionalidades.
+
+Introdução a Operadores Lógicos e suas funcionalidades.
