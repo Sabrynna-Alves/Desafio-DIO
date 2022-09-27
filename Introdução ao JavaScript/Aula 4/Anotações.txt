@@ -1,0 +1,2 @@
+Inicío de manipulação com:
+Estrutura de Decisão e Estrutura de Repetição.
